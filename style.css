@@ -1,0 +1,11 @@
+html, body {
+    margin: 0 ;
+    padding: 0;
+}
+.main-header{
+    /* background-color: rgba(0,0,0, .6); */
+    background-blend-mode: multiply;
+    /* background-image: url(images/album\ 1.webp);   */
+    background-size: cover;
+    padding: 30px
+}
